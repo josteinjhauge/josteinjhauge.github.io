@@ -1,0 +1,25 @@
+.socialIcon {
+    display: block;
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+.iconList{}
+
+.iconList ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    padding-left: 5px;
+}
+
+.iconList ul a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.iconList ul li{
+    padding-left: 10px;
+}

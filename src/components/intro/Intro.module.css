@@ -1,0 +1,14 @@
+.container {
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 40;
+}
+
+.textContainer {
+    margin-left: 20px;
+    margin-right: 20px;;
+}
+
